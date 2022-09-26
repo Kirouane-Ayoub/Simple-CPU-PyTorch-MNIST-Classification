@@ -1,1 +1,1 @@
-# Simple-CPU-PyTorch-MNIST-Classification
+# PyTorch MNIST Classification
